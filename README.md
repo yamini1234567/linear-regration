@@ -1,1 +1,1 @@
-# linear-regration
+#Sales prediction through linear regression 
